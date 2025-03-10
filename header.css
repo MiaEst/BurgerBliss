@@ -1,0 +1,16 @@
+header {
+    background-color: rgb(247, 249, 252);
+    width: 390px;
+    height: 64px;
+    padding: 0 24px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header .logo {
+    height: 30px;
+}
+header .menu {
+    height: 20px;
+}
